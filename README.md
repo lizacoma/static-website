@@ -1,2 +1,2 @@
 # firstmodel
-GitHub Pages: https://lizacoma.github.io/firstmodel/
+GitHub Pages: https://lizacoma.github.io/static-website/
